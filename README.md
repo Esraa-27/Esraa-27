@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esraa</h1>
-<h3 align="center">A passionate frontend developer angular</h3>
+<h3 align="center">A passionate Full Stack developer (angular & Dot Net)</h3>
 
 - 🔭 I’m currently **student CS**
 
@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **esraaabdou27@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XWLtr9KLWSNY1zyvCULCdfqBdKQQJIFz/view?usp=sharing](https://drive.google.com/file/d/1XWLtr9KLWSNY1zyvCULCdfqBdKQQJIFz/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XWLtr9KLWSNY1zyvCULCdfqBdKQQJIFz/view?usp=sharing](https://drive.google.com/file/d/1QD8czle9Ll1YC4dMngG_dCJxQB6bKTLw/view?usp=sharing)
 
 - ⚡ Fun fact **i'm funy**
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
 
