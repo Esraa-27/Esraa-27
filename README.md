@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **esraaabdou27@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SZvnOPl0_r0MlIhhRXSw98eTtBRlGCMR/view?usp=sharing](https://drive.google.com/file/d/1SZvnOPl0_r0MlIhhRXSw98eTtBRlGCMR/view?usp=sharing)
+- 📄 Know about my experiences [My CV ](https://drive.google.com/file/d/1SZvnOPl0_r0MlIhhRXSw98eTtBRlGCMR/view?usp=sharing)
 
 
 <!--<h3 align="left">Connect with me:</h3>-->
