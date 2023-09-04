@@ -7,9 +7,8 @@
 
 - 📫 How to reach me **esraaabdou27@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XWLtr9KLWSNY1zyvCULCdfqBdKQQJIFz/view?usp=sharing](https://github.com/Esraa-27/Registration-System/files/11788633/CV-Esraa.Abdou.-Full.Stack.Dot.Net.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SZvnOPl0_r0MlIhhRXSw98eTtBRlGCMR/view?usp=sharing](https://drive.google.com/file/d/1SZvnOPl0_r0MlIhhRXSw98eTtBRlGCMR/view?usp=sharing)
 
-- ⚡ Fun fact **i'm funy**
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
