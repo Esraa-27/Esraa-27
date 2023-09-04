@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **student (Computer science **
 
-- 🌱 I’m currently learning **angular and ASP.NET**
+- 🌱 I’m currently learning **angular , Laravel and ASP.NET**
 
 - 📫 How to reach me **esraaabdou27@gmail.com**
 
