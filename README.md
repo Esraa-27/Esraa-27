@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esraa</h1>
-<h3 align="center">A passionate Full Stack developer (angular & Laravel & Dot Net)</h3>
+<h3 align="center">A passionate Full Stack developer (Angular & Laravel & Dot Net)</h3>
 
 - 🔭 I’m currently **student Computer science**
 
